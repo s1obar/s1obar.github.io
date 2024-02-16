@@ -1,7 +1,7 @@
 {
   "name": "resume",
   "private": true,
-  "homepage": "https://s1obar.github.io/",
+  "homepage": "https://s1obar.github.io",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
