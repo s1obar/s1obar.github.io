@@ -4,6 +4,7 @@ import App from './App'
 import './index.css'
 import '@fontsource/outfit'
 import '@fontsource/roboto'
+import '@mui/lab'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
